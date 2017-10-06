@@ -1,2 +1,3 @@
 # me
-My personal respository
+
+My personal respository, for all sorts of general stuff.
